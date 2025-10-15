@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import SearchBar from "./components/searchBar";
+import SearchBar from "./components/SearchBar";
 import SongList from "./components/SongList";
 import VinylPlayer from "./components/VinylPlayer";
 import SkeletonView from "./components/SkeletonView";
